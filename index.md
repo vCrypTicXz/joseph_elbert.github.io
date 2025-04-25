@@ -5,7 +5,8 @@ layout: default
 # Projects
 
 ### Home-lab: SIEM Experience
-Brief Description: Installed Wazuh in a virtual environment and monitored my own home network's traffic. I want to run simulated malware attacks to help me better analyze logs even further
+Brief Description: Installed Wazuh SIEM in a virtual environment and monitored my own home network's traffic. I want to eventually run simulated malware attacks to help me better analyze logs.
+\
 Pictures:
 - picture
 - picture
@@ -13,6 +14,7 @@ Pictures:
 
 ### Home-lab: Honeypot
 Brief Description: Configured a honeypot on my own virtual machine.
+\
 Pictures:
 - picture
 - picture
@@ -20,6 +22,7 @@ Pictures:
 
 ### Penetration Testing Report
 Brief Description: Performed a full-scale penetration testing report.
+\
 Pictures:
 - picture
 - picture
@@ -28,6 +31,7 @@ Pictures:
 
 ### TryHackMe & Hack The Box
 Brief Description: Gained experience through CTF's and learning pathways.
+\
 Pictures:
 - picture
 - picture
@@ -35,6 +39,7 @@ Pictures:
 
 ### CyberDefenders and LetsDefend
 Brief Description: Dove into learning paths of a SOC analyst. Learned about things like threat hunting and digital forensics.
+\
 Pictures:
 - picture
 - picture

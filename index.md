@@ -2,6 +2,54 @@
 layout: default
 ---
 
+
+
+# Projects
+
+### Home-lab: SIEM Experience
+-
+-
+-
+
+### Penetration Testing Report
+-
+-
+-
+
+### TryHackMe & Hack The Box
+-
+-
+-
+
+### CyberDefenders and LetsDefend
+-
+-
+-
+
+# Experience
+
+### Dell Student Technician
+-
+-
+-
+-
+-
+
+
+
+# Certifications
+
+### CompTIA Security+ SY0-701 (Expected July 2025)
+
+### TestOut Network Pro
+
+![TestOut Network Pro Certification](https://github.com/vCrypTicXz/joseph_elbert.github.io/blob/703510c77eb7b7b7d7f976d389c80b32b8eb39e4/TestOut%20Network%20Pro.pdf)
+
+# Education
+
+
+
+<!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
@@ -121,3 +169,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->

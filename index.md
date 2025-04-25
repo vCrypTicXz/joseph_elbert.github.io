@@ -20,6 +20,15 @@ Pictures:
 - picture
 - picture
 
+### Home-lab: pfSense Router
+Brief Description: Configured a router on my own virtual machine.
+\
+Pictures:
+- picture
+- picture
+- picture
+
+
 ### Penetration Testing Report
 Brief Description: Performed a full-scale penetration testing report.
 \

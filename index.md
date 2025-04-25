@@ -2,52 +2,43 @@
 layout: default
 ---
 
-
-
 # Projects
 
 ### Home-lab: SIEM Experience
--
--
--
+Brief Description: Installed Wazuh in a virtual environment and monitored my own home network's traffic. I want to run simulated malware attacks to help me better analyze logs even further
+Pictures:
+- picture
+- picture
+- picture
+
+### Home-lab: Honeypot
+Brief Description: Configured a honeypot on my own virtual machine.
+Pictures:
+- picture
+- picture
+- picture
 
 ### Penetration Testing Report
--
--
--
+Brief Description: Performed a full-scale penetration testing report.
+Pictures:
+- picture
+- picture
+- picture
+
 
 ### TryHackMe & Hack The Box
--
--
--
+Brief Description: Gained experience through CTF's and learning pathways.
+Pictures:
+- picture
+- picture
+- picture
 
 ### CyberDefenders and LetsDefend
--
--
--
-
-# Experience
-
-### Dell Student Technician
--
--
--
--
--
-
-
-
-# Certifications
-
-### CompTIA Security+ SY0-701 (Expected July 2025)
-
-### TestOut Network Pro
-
-![TestOut Network Pro Certification](https://github.com/vCrypTicXz/joseph_elbert.github.io/blob/703510c77eb7b7b7d7f976d389c80b32b8eb39e4/TestOut%20Network%20Pro.pdf)
-
-# Education
-
-
+Brief Description: Dove into learning paths of a SOC analyst. Learned about things like threat hunting and digital forensics.
+Pictures:
+- picture
+- picture
+- picture
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

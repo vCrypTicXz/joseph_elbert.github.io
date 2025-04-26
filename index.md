@@ -5,14 +5,14 @@ layout: default
 # Projects
 
 ### Home-lab: Enterprise Network
-- Designed and currently experimenting with a personal cybersecurity home lab to simulate an enterprise environment and practice both red and blue 
-- team skills and techniques.
+- Designed and currently experimenting with a personal cybersecurity home lab to simulate an enterprise environment and practice both red and blue team skills and techniques.
 - Integrated and configured a multi-OS lab setup including the following systems:
     - Windows Server 2025 – Active Directory, Group Policy, Networking Configurations.
     - Windows 11 – Endpoint for testing user-level attacks and defenses.
     - Ubuntu Desktop & Server – Linux administration, SSH hardening, simple postfix email server. Utilize Wazuh to monitor simulated attacks.
     - Security Onion – Network monitoring and intrusion detection.
     - Kali Linux – Offensive security testing and penetration testing tools.
+\
 \
 Pictures:
 - picture

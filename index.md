@@ -12,7 +12,7 @@ layout: default
     - Ubuntu Desktop & Server – Linux administration, SSH hardening, simple postfix email server. Utilize Wazuh to monitor simulated attacks.
     - Security Onion – Network monitoring and intrusion detection.
     - Kali Linux – Offensive security testing and penetration testing tools.
-\
+
 \
 Pictures:
 - picture

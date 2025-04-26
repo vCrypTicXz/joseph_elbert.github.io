@@ -4,23 +4,30 @@ layout: default
 
 # Projects
 
-### Home-lab: SIEM Experience
-Brief Description: Installed Wazuh SIEM in a virtual environment and monitored my own home network's traffic. I want to eventually run simulated malware attacks to help me better analyze logs.
+### Home-lab: Enterprise Network
+- Designed and currently experimenting with a personal cybersecurity home lab to simulate an enterprise environment and practice both red and blue 
+- team skills and techniques.
+- Integrated and configured a multi-OS lab setup including the following systems:
+    - Windows Server 2025 – Active Directory, Group Policy, Networking Configurations.
+    - Windows 11 – Endpoint for testing user-level attacks and defenses.
+    - Ubuntu Desktop & Server – Linux administration, SSH hardening, simple postfix email server. Utilize Wazuh to monitor simulated attacks.
+    - Security Onion – Network monitoring and intrusion detection.
+    - Kali Linux – Offensive security testing and penetration testing tools.
 \
 Pictures:
 - picture
 - picture
 - picture
 
-### Home-lab: Honeypot
-Brief Description: Configured a honeypot on my own virtual machine.
+### Home-lab: Honeypot (IN PROGRESS)
+Brief Description: Configured a honeypot on my own virtual machine. 
 \
 Pictures:
 - picture
 - picture
 - picture
 
-### Home-lab: pfSense Router
+### Home-lab: pfSense Router (IN PROGRESS)
 Brief Description: Configured a router on my own virtual machine.
 \
 Pictures:
@@ -36,7 +43,6 @@ Pictures:
 - picture
 - picture
 - picture
-
 
 ### TryHackMe & Hack The Box
 Brief Description: Gained experience through CTF's and learning pathways.

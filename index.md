@@ -4,18 +4,18 @@ layout: default
 
 # Projects
 
-## Home Lab: Simulated an Enterprise Network: 
-\
-## Home Lab: Configured a Honeypot:
-\
-## Penetration Testing Report:
-\
-## TryHackMe: 
-\
-## Hack the Box:
-\
-## CyberDefenders:
-\
+Home Lab: Simulated an Enterprise Network: [Project Link](./home-lab-enterprise-network.md)
+
+Home Lab: Configured a Honeypot:
+
+Penetration Testing Report:
+
+TryHackMe: 
+
+Hack the Box:
+
+CyberDefenders:
+
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

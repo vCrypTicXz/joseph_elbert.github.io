@@ -4,61 +4,18 @@ layout: default
 
 # Projects
 
-### Home-lab: Enterprise Network
-- Designed and currently experimenting with a personal cybersecurity home lab to simulate an enterprise environment and practice both red and blue team skills and techniques.
-- Integrated and configured a multi-OS lab setup including the following systems:
-    - Windows Server 2025 – Active Directory, Group Policy, Networking Configurations.
-    - Windows 11 – Endpoint for testing user-level attacks and defenses.
-    - Ubuntu Desktop & Server – Linux administration, SSH hardening, simple postfix email server. Utilize Wazuh to monitor simulated attacks.
-    - Security Onion – Network monitoring and intrusion detection.
-    - Kali Linux – Offensive security testing and penetration testing tools.
-
+## Home Lab: Simulated an Enterprise Network: 
 \
-Pictures:
-- picture
-- picture
-- picture
-
-### Home-lab: Honeypot (IN PROGRESS)
-Brief Description: Configured a honeypot on my own virtual machine. 
+## Home Lab: Configured a Honeypot:
 \
-Pictures:
-- picture
-- picture
-- picture
-
-### Home-lab: pfSense Router (IN PROGRESS)
-Brief Description: Configured a router on my own virtual machine.
+## Penetration Testing Report:
 \
-Pictures:
-- picture
-- picture
-- picture
-
-
-### Penetration Testing Report
-Brief Description: Performed a full-scale penetration testing report.
+## TryHackMe: 
 \
-Pictures:
-- picture
-- picture
-- picture
-
-### TryHackMe & Hack The Box
-Brief Description: Gained experience through CTF's and learning pathways.
+## Hack the Box:
 \
-Pictures:
-- picture
-- picture
-- picture
-
-### CyberDefenders and LetsDefend
-Brief Description: Dove into learning paths of a SOC analyst. Learned about things like threat hunting and digital forensics.
+## CyberDefenders:
 \
-Pictures:
-- picture
-- picture
-- picture
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

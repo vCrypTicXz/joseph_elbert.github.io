@@ -6,14 +6,17 @@ layout: default
 
 ###Home Lab: Simulated an Enterprise Network: [Project Link](./home-lab-enterprise-network.md)
 
-###Home Lab: Configured a Honeypot:
+###Home Lab: Configured a Honeypot: [Project Link](./home-lab-honeypot.md)
 
-###Penetration Testing Report:
+###Penetration Testing Report: [Project Link](./penetration-testing-report)
 
-###TryHackMe & Hack the Box:
+###TryHackMe & Hack the Box: [Project Link](./THM-HTB.md)
 
-###CyberDefenders & LetsDefend:
+###CyberDefenders & LetsDefend: [Project Link](./cyberdefenders-letsdefend.md)
 
+Have any questions, contact me:
+[LinkedIn](https://www.linkedin.com/in/joseph-elbert/)
+[Email](josephelb@comcast.net)
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

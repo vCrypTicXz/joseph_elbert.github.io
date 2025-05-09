@@ -6,13 +6,13 @@ layout: default
 
 ### Home Lab: Simulated an Enterprise Network: [Project Link](./home-lab-enterprise-network.md)
 
-### Home Lab: Configured a Honeypot: [Project Link](./home-lab-honeypot.md)
+### Home Lab: Configured a Honeypot: [Project Link](./home-lab-honeypot.md) WORK IN PROGRESS
 
 ### Penetration Testing Report: [Project Link](./Penetration_Testing_Report.pdf)
 
-### TryHackMe & Hack the Box: [Project Link](./THM-HTB.md)
+### TryHackMe & Hack the Box: [TryHackMe]()  |  [Hack The Box]()
 
-### CyberDefenders & LetsDefend: [Project Link](./cyberdefenders-letsdefend.md)
+### CyberDefenders & LetsDefend: [CyberDefenders]()  |  [LetsDefend]()
 
 <br>
 

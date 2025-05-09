@@ -13,8 +13,8 @@ layout: default
 ### TryHackMe & Hack the Box: [Project Link](./THM-HTB.md)
 
 ### CyberDefenders & LetsDefend: [Project Link](./cyberdefenders-letsdefend.md)
-\
-\
+
+
 
 # Have any questions, contact me:
 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/joseph-elbert/)\

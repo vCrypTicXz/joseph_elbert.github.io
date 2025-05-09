@@ -4,7 +4,7 @@ layout: default
 
 # Penetration Testing Report
 
-![Penetration Testing Report](./Penetration_Testing_Report.pdf)
+[Penetration Testing Report](./Penetration_Testing_Report.pdf)
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

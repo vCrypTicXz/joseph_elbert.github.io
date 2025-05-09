@@ -8,7 +8,7 @@ layout: default
 
 ### Home Lab: Configured a Honeypot: [Project Link](./home-lab-honeypot.md)
 
-### Penetration Testing Report: [Project Link](./penetration-testing-report)
+### Penetration Testing Report: [Project Link](./Penetration_Testing_Report.pdf)
 
 ### TryHackMe & Hack the Box: [Project Link](./THM-HTB.md)
 
@@ -16,7 +16,7 @@ layout: default
 
 <br>
 
-# Have any questions, contact me:
+## Have any questions, contact me:
 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/joseph-elbert/)\
 Send me an email with any questions! josephelb@comcast.net
 

@@ -14,8 +14,8 @@ layout: default
 
 ### CyberDefenders & LetsDefend: [Project Link](./cyberdefenders-letsdefend.md)
 
-Have any questions, contact me:\
-Connect with me on linkedin! [LinkedIn](https://www.linkedin.com/in/joseph-elbert/)\
+### Have any questions, contact me:\
+Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/joseph-elbert/)\
 Send me an email with any questions! [Email](josephelb@comcast.net)
 
 <!---

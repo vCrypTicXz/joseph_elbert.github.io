@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+# My Projects!
 
 ### Home Lab: Simulated an Enterprise Network: [Project Link](./home-lab-enterprise-network.md)
 
@@ -14,9 +14,10 @@ layout: default
 
 ### CyberDefenders & LetsDefend: [Project Link](./cyberdefenders-letsdefend.md)
 
+
 #### Have any questions, contact me:
 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/joseph-elbert/)\
-Send me an email with any questions! [Email](josephelb@comcast.net)
+Send me an email with any questions! josephelb@comcast.net
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

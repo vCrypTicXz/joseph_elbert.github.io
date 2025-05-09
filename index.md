@@ -13,7 +13,7 @@ layout: default
 ### TryHackMe & Hack the Box: [Project Link](./THM-HTB.md)
 
 ### CyberDefenders & LetsDefend: [Project Link](./cyberdefenders-letsdefend.md)
-<br>
+
 <br>
 
 # Have any questions, contact me:
